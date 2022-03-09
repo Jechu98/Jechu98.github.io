@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Jesus, I´m from México and I´m Computer Systems Engineer 
+My name is Jesus, I´m from México and I´m Computer Systems Engineer 
 
 - 🔭 I’m currently working on Mexican Physical Society A.C
 - 🌱 I’m currently learning Flutter, Django, Python and Wordpress
